@@ -1,0 +1,111 @@
+nav li{
+    position: relative;
+    float: left;
+    margin: 8px;
+    padding: 36px;
+    text-decoration: none;
+    font-size: 25px;
+    list-style: none;
+    border-right: 2px solid gray;
+}
+
+a{
+	color:gray;
+	text-decoration: none;
+}
+.gris{
+	text-align: center;
+	margin:0 auto;
+	color:#808080;
+}
+.imgverde{
+	background-image: url("../img/fondo.jpg");
+	height: 419px;
+}
+h3{
+	color:#4f6f09;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+.verde{
+	background-color: #6c8b32;
+	height: 704px;
+}
+h2{
+	color:white;
+	text-align: center;
+}
+h4{
+	color:white;
+	text-align: center;
+}
+.proyecto{
+	width: 100%;
+	height: 300px;
+	margin: 15px;
+}
+.blanco{
+	text-align: center;
+	color:white; 
+	width: 100%;
+	height: 280px;
+	margin-top:50px;
+	font-size: 20px;
+}
+.cargo{
+	text-align: center;
+}
+.equipo{
+	color:#4f6f09;
+	font-size: 18px;
+}
+.nina{
+	width:200px;
+    height:200px;
+    border-radius:150px;
+}
+.red{
+	text-align:center;
+}
+.parra{
+	color:#4c4c4c;
+	font-size: 15px;
+}
+.fondogris{
+	background-color: #cccccc;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+.redes{
+	width: 30px;
+	height: 30px;
+}
+.redes2{
+	width: 40px;
+	height: 20px;
+}
+.negro{
+	background-color: #333333;
+}
+.imggris{
+	background-image: url("../img/fondo2.jpg");
+	height: 440px;
+}
+.titulo{
+	color:#4c4c4c;
+}
+h5{
+	color:#4c4c4c;
+}
+.cuadrado{ 
+    border: 1px solid white;
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+	
+}
+
+
+
+
